@@ -1,0 +1,822 @@
+{
+  "generatedAt": "2026-08-20T02:37:32.291Z",
+  "source": "http://127.0.0.1:4322/",
+  "count": 163,
+  "routes": [
+    {
+      "sourceHtml": "index.html",
+      "route": "/",
+      "screenshotRel": "en/index.png"
+    },
+    {
+      "sourceHtml": "404.html",
+      "route": "/404",
+      "screenshotRel": "en/404/index.png"
+    },
+    {
+      "sourceHtml": "about/index.html",
+      "route": "/about",
+      "screenshotRel": "en/about/index.png"
+    },
+    {
+      "sourceHtml": "bosses/index.html",
+      "route": "/bosses",
+      "screenshotRel": "en/bosses/index.png"
+    },
+    {
+      "sourceHtml": "bosses/characters/index.html",
+      "route": "/bosses/characters",
+      "screenshotRel": "en/bosses/characters/index.png"
+    },
+    {
+      "sourceHtml": "bosses/emberfang/index.html",
+      "route": "/bosses/emberfang",
+      "screenshotRel": "en/bosses/emberfang/index.png"
+    },
+    {
+      "sourceHtml": "bosses/stormcaller/index.html",
+      "route": "/bosses/stormcaller",
+      "screenshotRel": "en/bosses/stormcaller/index.png"
+    },
+    {
+      "sourceHtml": "bosses/vessel/index.html",
+      "route": "/bosses/vessel",
+      "screenshotRel": "en/bosses/vessel/index.png"
+    },
+    {
+      "sourceHtml": "codes/index.html",
+      "route": "/codes",
+      "screenshotRel": "en/codes/index.png"
+    },
+    {
+      "sourceHtml": "codes/all-codes/index.html",
+      "route": "/codes/all-codes",
+      "screenshotRel": "en/codes/all-codes/index.png"
+    },
+    {
+      "sourceHtml": "contact/index.html",
+      "route": "/contact",
+      "screenshotRel": "en/contact/index.png"
+    },
+    {
+      "sourceHtml": "copyright/index.html",
+      "route": "/copyright",
+      "screenshotRel": "en/copyright/index.png"
+    },
+    {
+      "sourceHtml": "faq/index.html",
+      "route": "/faq",
+      "screenshotRel": "en/faq/index.png"
+    },
+    {
+      "sourceHtml": "guides/index.html",
+      "route": "/guides",
+      "screenshotRel": "en/guides/index.png"
+    },
+    {
+      "sourceHtml": "guides/beginner-guide/index.html",
+      "route": "/guides/beginner-guide",
+      "screenshotRel": "en/guides/beginner-guide/index.png"
+    },
+    {
+      "sourceHtml": "guides/controls/index.html",
+      "route": "/guides/controls",
+      "screenshotRel": "en/guides/controls/index.png"
+    },
+    {
+      "sourceHtml": "guides/skill-builder/index.html",
+      "route": "/guides/skill-builder",
+      "screenshotRel": "en/guides/skill-builder/index.png"
+    },
+    {
+      "sourceHtml": "guides/weapon-tier-list/index.html",
+      "route": "/guides/weapon-tier-list",
+      "screenshotRel": "en/guides/weapon-tier-list/index.png"
+    },
+    {
+      "sourceHtml": "items/index.html",
+      "route": "/items",
+      "screenshotRel": "en/items/index.png"
+    },
+    {
+      "sourceHtml": "items/community-links/index.html",
+      "route": "/items/community-links",
+      "screenshotRel": "en/items/community-links/index.png"
+    },
+    {
+      "sourceHtml": "items/gameplay-reference/index.html",
+      "route": "/items/gameplay-reference",
+      "screenshotRel": "en/items/gameplay-reference/index.png"
+    },
+    {
+      "sourceHtml": "items/maps/index.html",
+      "route": "/items/maps",
+      "screenshotRel": "en/items/maps/index.png"
+    },
+    {
+      "sourceHtml": "items/update-log/index.html",
+      "route": "/items/update-log",
+      "screenshotRel": "en/items/update-log/index.png"
+    },
+    {
+      "sourceHtml": "ja/index.html",
+      "route": "/ja",
+      "screenshotRel": "ja/index.png"
+    },
+    {
+      "sourceHtml": "ja/about/index.html",
+      "route": "/ja/about",
+      "screenshotRel": "ja/about/index.png"
+    },
+    {
+      "sourceHtml": "ja/bosses/index.html",
+      "route": "/ja/bosses",
+      "screenshotRel": "ja/bosses/index.png"
+    },
+    {
+      "sourceHtml": "ja/bosses/characters/index.html",
+      "route": "/ja/bosses/characters",
+      "screenshotRel": "ja/bosses/characters/index.png"
+    },
+    {
+      "sourceHtml": "ja/bosses/emberfang/index.html",
+      "route": "/ja/bosses/emberfang",
+      "screenshotRel": "ja/bosses/emberfang/index.png"
+    },
+    {
+      "sourceHtml": "ja/bosses/stormcaller/index.html",
+      "route": "/ja/bosses/stormcaller",
+      "screenshotRel": "ja/bosses/stormcaller/index.png"
+    },
+    {
+      "sourceHtml": "ja/bosses/vessel/index.html",
+      "route": "/ja/bosses/vessel",
+      "screenshotRel": "ja/bosses/vessel/index.png"
+    },
+    {
+      "sourceHtml": "ja/codes/index.html",
+      "route": "/ja/codes",
+      "screenshotRel": "ja/codes/index.png"
+    },
+    {
+      "sourceHtml": "ja/codes/all-codes/index.html",
+      "route": "/ja/codes/all-codes",
+      "screenshotRel": "ja/codes/all-codes/index.png"
+    },
+    {
+      "sourceHtml": "ja/contact/index.html",
+      "route": "/ja/contact",
+      "screenshotRel": "ja/contact/index.png"
+    },
+    {
+      "sourceHtml": "ja/copyright/index.html",
+      "route": "/ja/copyright",
+      "screenshotRel": "ja/copyright/index.png"
+    },
+    {
+      "sourceHtml": "ja/faq/index.html",
+      "route": "/ja/faq",
+      "screenshotRel": "ja/faq/index.png"
+    },
+    {
+      "sourceHtml": "ja/guides/index.html",
+      "route": "/ja/guides",
+      "screenshotRel": "ja/guides/index.png"
+    },
+    {
+      "sourceHtml": "ja/guides/beginner-guide/index.html",
+      "route": "/ja/guides/beginner-guide",
+      "screenshotRel": "ja/guides/beginner-guide/index.png"
+    },
+    {
+      "sourceHtml": "ja/guides/controls/index.html",
+      "route": "/ja/guides/controls",
+      "screenshotRel": "ja/guides/controls/index.png"
+    },
+    {
+      "sourceHtml": "ja/guides/skill-builder/index.html",
+      "route": "/ja/guides/skill-builder",
+      "screenshotRel": "ja/guides/skill-builder/index.png"
+    },
+    {
+      "sourceHtml": "ja/guides/weapon-tier-list/index.html",
+      "route": "/ja/guides/weapon-tier-list",
+      "screenshotRel": "ja/guides/weapon-tier-list/index.png"
+    },
+    {
+      "sourceHtml": "ja/items/index.html",
+      "route": "/ja/items",
+      "screenshotRel": "ja/items/index.png"
+    },
+    {
+      "sourceHtml": "ja/items/community-links/index.html",
+      "route": "/ja/items/community-links",
+      "screenshotRel": "ja/items/community-links/index.png"
+    },
+    {
+      "sourceHtml": "ja/items/gameplay-reference/index.html",
+      "route": "/ja/items/gameplay-reference",
+      "screenshotRel": "ja/items/gameplay-reference/index.png"
+    },
+    {
+      "sourceHtml": "ja/items/maps/index.html",
+      "route": "/ja/items/maps",
+      "screenshotRel": "ja/items/maps/index.png"
+    },
+    {
+      "sourceHtml": "ja/items/update-log/index.html",
+      "route": "/ja/items/update-log",
+      "screenshotRel": "ja/items/update-log/index.png"
+    },
+    {
+      "sourceHtml": "ja/privacy-policy/index.html",
+      "route": "/ja/privacy-policy",
+      "screenshotRel": "ja/privacy-policy/index.png"
+    },
+    {
+      "sourceHtml": "ja/recent/index.html",
+      "route": "/ja/recent",
+      "screenshotRel": "ja/recent/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/index.html",
+      "route": "/ja/tags",
+      "screenshotRel": "ja/tags/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/arena/index.html",
+      "route": "/ja/tags/arena",
+      "screenshotRel": "ja/tags/arena/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/beginner/index.html",
+      "route": "/ja/tags/beginner",
+      "screenshotRel": "ja/tags/beginner/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/black-death/index.html",
+      "route": "/ja/tags/black-death",
+      "screenshotRel": "ja/tags/black-death/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/black-flash/index.html",
+      "route": "/ja/tags/black-flash",
+      "screenshotRel": "ja/tags/black-flash/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/changelog/index.html",
+      "route": "/ja/tags/changelog",
+      "screenshotRel": "ja/tags/changelog/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/characters/index.html",
+      "route": "/ja/tags/characters",
+      "screenshotRel": "ja/tags/characters/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/codes/index.html",
+      "route": "/ja/tags/codes",
+      "screenshotRel": "ja/tags/codes/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/combat/index.html",
+      "route": "/ja/tags/combat",
+      "screenshotRel": "ja/tags/combat/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/combos/index.html",
+      "route": "/ja/tags/combos",
+      "screenshotRel": "ja/tags/combos/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/community/index.html",
+      "route": "/ja/tags/community",
+      "screenshotRel": "ja/tags/community/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/controls/index.html",
+      "route": "/ja/tags/controls",
+      "screenshotRel": "ja/tags/controls/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/freshness/index.html",
+      "route": "/ja/tags/freshness",
+      "screenshotRel": "ja/tags/freshness/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/gameplay/index.html",
+      "route": "/ja/tags/gameplay",
+      "screenshotRel": "ja/tags/gameplay/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/gojo/index.html",
+      "route": "/ja/tags/gojo",
+      "screenshotRel": "ja/tags/gojo/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/guide/index.html",
+      "route": "/ja/tags/guide",
+      "screenshotRel": "ja/tags/guide/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/honored-one/index.html",
+      "route": "/ja/tags/honored-one",
+      "screenshotRel": "ja/tags/honored-one/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/links/index.html",
+      "route": "/ja/tags/links",
+      "screenshotRel": "ja/tags/links/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/maps/index.html",
+      "route": "/ja/tags/maps",
+      "screenshotRel": "ja/tags/maps/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/practice/index.html",
+      "route": "/ja/tags/practice",
+      "screenshotRel": "ja/tags/practice/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/reference/index.html",
+      "route": "/ja/tags/reference",
+      "screenshotRel": "ja/tags/reference/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/rewards/index.html",
+      "route": "/ja/tags/rewards",
+      "screenshotRel": "ja/tags/rewards/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/routes/index.html",
+      "route": "/ja/tags/routes",
+      "screenshotRel": "ja/tags/routes/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/skill-builder/index.html",
+      "route": "/ja/tags/skill-builder",
+      "screenshotRel": "ja/tags/skill-builder/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/styles/index.html",
+      "route": "/ja/tags/styles",
+      "screenshotRel": "ja/tags/styles/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/updates/index.html",
+      "route": "/ja/tags/updates",
+      "screenshotRel": "ja/tags/updates/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/vessel/index.html",
+      "route": "/ja/tags/vessel",
+      "screenshotRel": "ja/tags/vessel/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/video/index.html",
+      "route": "/ja/tags/video",
+      "screenshotRel": "ja/tags/video/index.png"
+    },
+    {
+      "sourceHtml": "ja/tags/yuji/index.html",
+      "route": "/ja/tags/yuji",
+      "screenshotRel": "ja/tags/yuji/index.png"
+    },
+    {
+      "sourceHtml": "ja/terms-of-service/index.html",
+      "route": "/ja/terms-of-service",
+      "screenshotRel": "ja/terms-of-service/index.png"
+    },
+    {
+      "sourceHtml": "privacy-policy/index.html",
+      "route": "/privacy-policy",
+      "screenshotRel": "en/privacy-policy/index.png"
+    },
+    {
+      "sourceHtml": "recent/index.html",
+      "route": "/recent",
+      "screenshotRel": "en/recent/index.png"
+    },
+    {
+      "sourceHtml": "tags/index.html",
+      "route": "/tags",
+      "screenshotRel": "en/tags/index.png"
+    },
+    {
+      "sourceHtml": "tags/arena/index.html",
+      "route": "/tags/arena",
+      "screenshotRel": "en/tags/arena/index.png"
+    },
+    {
+      "sourceHtml": "tags/beginner/index.html",
+      "route": "/tags/beginner",
+      "screenshotRel": "en/tags/beginner/index.png"
+    },
+    {
+      "sourceHtml": "tags/black-death/index.html",
+      "route": "/tags/black-death",
+      "screenshotRel": "en/tags/black-death/index.png"
+    },
+    {
+      "sourceHtml": "tags/black-flash/index.html",
+      "route": "/tags/black-flash",
+      "screenshotRel": "en/tags/black-flash/index.png"
+    },
+    {
+      "sourceHtml": "tags/changelog/index.html",
+      "route": "/tags/changelog",
+      "screenshotRel": "en/tags/changelog/index.png"
+    },
+    {
+      "sourceHtml": "tags/characters/index.html",
+      "route": "/tags/characters",
+      "screenshotRel": "en/tags/characters/index.png"
+    },
+    {
+      "sourceHtml": "tags/codes/index.html",
+      "route": "/tags/codes",
+      "screenshotRel": "en/tags/codes/index.png"
+    },
+    {
+      "sourceHtml": "tags/combat/index.html",
+      "route": "/tags/combat",
+      "screenshotRel": "en/tags/combat/index.png"
+    },
+    {
+      "sourceHtml": "tags/combos/index.html",
+      "route": "/tags/combos",
+      "screenshotRel": "en/tags/combos/index.png"
+    },
+    {
+      "sourceHtml": "tags/community/index.html",
+      "route": "/tags/community",
+      "screenshotRel": "en/tags/community/index.png"
+    },
+    {
+      "sourceHtml": "tags/controls/index.html",
+      "route": "/tags/controls",
+      "screenshotRel": "en/tags/controls/index.png"
+    },
+    {
+      "sourceHtml": "tags/freshness/index.html",
+      "route": "/tags/freshness",
+      "screenshotRel": "en/tags/freshness/index.png"
+    },
+    {
+      "sourceHtml": "tags/gameplay/index.html",
+      "route": "/tags/gameplay",
+      "screenshotRel": "en/tags/gameplay/index.png"
+    },
+    {
+      "sourceHtml": "tags/gojo/index.html",
+      "route": "/tags/gojo",
+      "screenshotRel": "en/tags/gojo/index.png"
+    },
+    {
+      "sourceHtml": "tags/guide/index.html",
+      "route": "/tags/guide",
+      "screenshotRel": "en/tags/guide/index.png"
+    },
+    {
+      "sourceHtml": "tags/honored-one/index.html",
+      "route": "/tags/honored-one",
+      "screenshotRel": "en/tags/honored-one/index.png"
+    },
+    {
+      "sourceHtml": "tags/links/index.html",
+      "route": "/tags/links",
+      "screenshotRel": "en/tags/links/index.png"
+    },
+    {
+      "sourceHtml": "tags/maps/index.html",
+      "route": "/tags/maps",
+      "screenshotRel": "en/tags/maps/index.png"
+    },
+    {
+      "sourceHtml": "tags/practice/index.html",
+      "route": "/tags/practice",
+      "screenshotRel": "en/tags/practice/index.png"
+    },
+    {
+      "sourceHtml": "tags/reference/index.html",
+      "route": "/tags/reference",
+      "screenshotRel": "en/tags/reference/index.png"
+    },
+    {
+      "sourceHtml": "tags/rewards/index.html",
+      "route": "/tags/rewards",
+      "screenshotRel": "en/tags/rewards/index.png"
+    },
+    {
+      "sourceHtml": "tags/routes/index.html",
+      "route": "/tags/routes",
+      "screenshotRel": "en/tags/routes/index.png"
+    },
+    {
+      "sourceHtml": "tags/skill-builder/index.html",
+      "route": "/tags/skill-builder",
+      "screenshotRel": "en/tags/skill-builder/index.png"
+    },
+    {
+      "sourceHtml": "tags/styles/index.html",
+      "route": "/tags/styles",
+      "screenshotRel": "en/tags/styles/index.png"
+    },
+    {
+      "sourceHtml": "tags/updates/index.html",
+      "route": "/tags/updates",
+      "screenshotRel": "en/tags/updates/index.png"
+    },
+    {
+      "sourceHtml": "tags/vessel/index.html",
+      "route": "/tags/vessel",
+      "screenshotRel": "en/tags/vessel/index.png"
+    },
+    {
+      "sourceHtml": "tags/video/index.html",
+      "route": "/tags/video",
+      "screenshotRel": "en/tags/video/index.png"
+    },
+    {
+      "sourceHtml": "tags/yuji/index.html",
+      "route": "/tags/yuji",
+      "screenshotRel": "en/tags/yuji/index.png"
+    },
+    {
+      "sourceHtml": "terms-of-service/index.html",
+      "route": "/terms-of-service",
+      "screenshotRel": "en/terms-of-service/index.png"
+    },
+    {
+      "sourceHtml": "zh/index.html",
+      "route": "/zh",
+      "screenshotRel": "zh/index.png"
+    },
+    {
+      "sourceHtml": "zh/about/index.html",
+      "route": "/zh/about",
+      "screenshotRel": "zh/about/index.png"
+    },
+    {
+      "sourceHtml": "zh/bosses/index.html",
+      "route": "/zh/bosses",
+      "screenshotRel": "zh/bosses/index.png"
+    },
+    {
+      "sourceHtml": "zh/bosses/characters/index.html",
+      "route": "/zh/bosses/characters",
+      "screenshotRel": "zh/bosses/characters/index.png"
+    },
+    {
+      "sourceHtml": "zh/bosses/emberfang/index.html",
+      "route": "/zh/bosses/emberfang",
+      "screenshotRel": "zh/bosses/emberfang/index.png"
+    },
+    {
+      "sourceHtml": "zh/bosses/stormcaller/index.html",
+      "route": "/zh/bosses/stormcaller",
+      "screenshotRel": "zh/bosses/stormcaller/index.png"
+    },
+    {
+      "sourceHtml": "zh/bosses/vessel/index.html",
+      "route": "/zh/bosses/vessel",
+      "screenshotRel": "zh/bosses/vessel/index.png"
+    },
+    {
+      "sourceHtml": "zh/codes/index.html",
+      "route": "/zh/codes",
+      "screenshotRel": "zh/codes/index.png"
+    },
+    {
+      "sourceHtml": "zh/codes/all-codes/index.html",
+      "route": "/zh/codes/all-codes",
+      "screenshotRel": "zh/codes/all-codes/index.png"
+    },
+    {
+      "sourceHtml": "zh/contact/index.html",
+      "route": "/zh/contact",
+      "screenshotRel": "zh/contact/index.png"
+    },
+    {
+      "sourceHtml": "zh/copyright/index.html",
+      "route": "/zh/copyright",
+      "screenshotRel": "zh/copyright/index.png"
+    },
+    {
+      "sourceHtml": "zh/faq/index.html",
+      "route": "/zh/faq",
+      "screenshotRel": "zh/faq/index.png"
+    },
+    {
+      "sourceHtml": "zh/guides/index.html",
+      "route": "/zh/guides",
+      "screenshotRel": "zh/guides/index.png"
+    },
+    {
+      "sourceHtml": "zh/guides/beginner-guide/index.html",
+      "route": "/zh/guides/beginner-guide",
+      "screenshotRel": "zh/guides/beginner-guide/index.png"
+    },
+    {
+      "sourceHtml": "zh/guides/controls/index.html",
+      "route": "/zh/guides/controls",
+      "screenshotRel": "zh/guides/controls/index.png"
+    },
+    {
+      "sourceHtml": "zh/guides/skill-builder/index.html",
+      "route": "/zh/guides/skill-builder",
+      "screenshotRel": "zh/guides/skill-builder/index.png"
+    },
+    {
+      "sourceHtml": "zh/guides/weapon-tier-list/index.html",
+      "route": "/zh/guides/weapon-tier-list",
+      "screenshotRel": "zh/guides/weapon-tier-list/index.png"
+    },
+    {
+      "sourceHtml": "zh/items/index.html",
+      "route": "/zh/items",
+      "screenshotRel": "zh/items/index.png"
+    },
+    {
+      "sourceHtml": "zh/items/community-links/index.html",
+      "route": "/zh/items/community-links",
+      "screenshotRel": "zh/items/community-links/index.png"
+    },
+    {
+      "sourceHtml": "zh/items/gameplay-reference/index.html",
+      "route": "/zh/items/gameplay-reference",
+      "screenshotRel": "zh/items/gameplay-reference/index.png"
+    },
+    {
+      "sourceHtml": "zh/items/maps/index.html",
+      "route": "/zh/items/maps",
+      "screenshotRel": "zh/items/maps/index.png"
+    },
+    {
+      "sourceHtml": "zh/items/update-log/index.html",
+      "route": "/zh/items/update-log",
+      "screenshotRel": "zh/items/update-log/index.png"
+    },
+    {
+      "sourceHtml": "zh/privacy-policy/index.html",
+      "route": "/zh/privacy-policy",
+      "screenshotRel": "zh/privacy-policy/index.png"
+    },
+    {
+      "sourceHtml": "zh/recent/index.html",
+      "route": "/zh/recent",
+      "screenshotRel": "zh/recent/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/index.html",
+      "route": "/zh/tags",
+      "screenshotRel": "zh/tags/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/arena/index.html",
+      "route": "/zh/tags/arena",
+      "screenshotRel": "zh/tags/arena/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/beginner/index.html",
+      "route": "/zh/tags/beginner",
+      "screenshotRel": "zh/tags/beginner/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/black-death/index.html",
+      "route": "/zh/tags/black-death",
+      "screenshotRel": "zh/tags/black-death/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/black-flash/index.html",
+      "route": "/zh/tags/black-flash",
+      "screenshotRel": "zh/tags/black-flash/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/changelog/index.html",
+      "route": "/zh/tags/changelog",
+      "screenshotRel": "zh/tags/changelog/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/characters/index.html",
+      "route": "/zh/tags/characters",
+      "screenshotRel": "zh/tags/characters/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/codes/index.html",
+      "route": "/zh/tags/codes",
+      "screenshotRel": "zh/tags/codes/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/combat/index.html",
+      "route": "/zh/tags/combat",
+      "screenshotRel": "zh/tags/combat/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/combos/index.html",
+      "route": "/zh/tags/combos",
+      "screenshotRel": "zh/tags/combos/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/community/index.html",
+      "route": "/zh/tags/community",
+      "screenshotRel": "zh/tags/community/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/controls/index.html",
+      "route": "/zh/tags/controls",
+      "screenshotRel": "zh/tags/controls/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/freshness/index.html",
+      "route": "/zh/tags/freshness",
+      "screenshotRel": "zh/tags/freshness/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/gameplay/index.html",
+      "route": "/zh/tags/gameplay",
+      "screenshotRel": "zh/tags/gameplay/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/gojo/index.html",
+      "route": "/zh/tags/gojo",
+      "screenshotRel": "zh/tags/gojo/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/guide/index.html",
+      "route": "/zh/tags/guide",
+      "screenshotRel": "zh/tags/guide/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/honored-one/index.html",
+      "route": "/zh/tags/honored-one",
+      "screenshotRel": "zh/tags/honored-one/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/links/index.html",
+      "route": "/zh/tags/links",
+      "screenshotRel": "zh/tags/links/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/maps/index.html",
+      "route": "/zh/tags/maps",
+      "screenshotRel": "zh/tags/maps/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/practice/index.html",
+      "route": "/zh/tags/practice",
+      "screenshotRel": "zh/tags/practice/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/reference/index.html",
+      "route": "/zh/tags/reference",
+      "screenshotRel": "zh/tags/reference/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/rewards/index.html",
+      "route": "/zh/tags/rewards",
+      "screenshotRel": "zh/tags/rewards/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/routes/index.html",
+      "route": "/zh/tags/routes",
+      "screenshotRel": "zh/tags/routes/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/skill-builder/index.html",
+      "route": "/zh/tags/skill-builder",
+      "screenshotRel": "zh/tags/skill-builder/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/styles/index.html",
+      "route": "/zh/tags/styles",
+      "screenshotRel": "zh/tags/styles/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/updates/index.html",
+      "route": "/zh/tags/updates",
+      "screenshotRel": "zh/tags/updates/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/vessel/index.html",
+      "route": "/zh/tags/vessel",
+      "screenshotRel": "zh/tags/vessel/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/video/index.html",
+      "route": "/zh/tags/video",
+      "screenshotRel": "zh/tags/video/index.png"
+    },
+    {
+      "sourceHtml": "zh/tags/yuji/index.html",
+      "route": "/zh/tags/yuji",
+      "screenshotRel": "zh/tags/yuji/index.png"
+    },
+    {
+      "sourceHtml": "zh/terms-of-service/index.html",
+      "route": "/zh/terms-of-service",
+      "screenshotRel": "zh/terms-of-service/index.png"
+    }
+  ]
+}
