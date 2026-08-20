@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 这是本地预览清单，不是正式线上 Sitemap。部署后请用真实 HTTPS 域名重新生成。 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://127.0.0.1:4173/</loc></url>
+  <url><loc>http://127.0.0.1:4173/guide.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/controls.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/characters.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/vessel.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/updates.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/skill-builder.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/codes.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/community.html</loc></url>
+  <url><loc>http://127.0.0.1:4173/gameplay.html</loc></url>
+</urlset>
