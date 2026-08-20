@@ -20,7 +20,7 @@
 
 | 表单字段 | 对应素材 |
 | --- | --- |
-| Github 仓库代码截图 | `仓库截图/GitHub-仓库文件列表.png`（仓库：[xrj/jujutsu-shenanigans-player-guide](https://github.com/xrj/jujutsu-shenanigans-player-guide)，提交 `d3ed4a4`） |
+| Github 仓库代码截图 | `仓库截图/GitHub-仓库文件列表.png`（仓库：[xrj/jujutsu-shenanigans-player-guide](https://github.com/xrj/jujutsu-shenanigans-player-guide)，截图更新提交 `fc02993`） |
 | 本地浏览器可访问的网站截图 | `图片/` 下六张最新页面截图；全部页面见 `最新站点截图-2026-08-20/` |
 | 分享一下这次最大的收获，或者你遇到的卡点、怎么解决的 | `关卡4-可粘贴文字.md` |
 
